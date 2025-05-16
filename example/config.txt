@@ -1,0 +1,2 @@
+Prefix plugins/YeoJohnson/example/
+Plugin YeoJohnson inputfile parameters.txt outputfile none
